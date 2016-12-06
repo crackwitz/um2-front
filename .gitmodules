@@ -1,0 +1,3 @@
+[submodule "Ultimaker2"]
+	path = Ultimaker2
+	url = git@github.com:Ultimaker/Ultimaker2.git
